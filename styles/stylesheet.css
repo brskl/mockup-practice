@@ -12,3 +12,28 @@ footer {
 nav {
   background: gray;
 }
+
+.call-to-action {
+  text-align: right;
+}
+
+a {
+  color: red;
+}
+
+nav a {
+  color: blue;
+}
+
+aside {
+  float: right;
+  border: 1px solid black;
+}
+
+article {
+  float: left;
+}
+
+footer {
+  clear: both;
+}
