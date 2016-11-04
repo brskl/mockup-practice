@@ -7,6 +7,7 @@ header {
 footer {
   background: black;
   color: white;
+  clear: both;
 }
 
 nav {
@@ -37,10 +38,18 @@ article {
   float: left;
 }
 
-footer {
-  clear: both;
+footer p {
+  text-align: center;
 }
 
-footer p {
+figure a {
+  float: right;
+}
+
+figure figcaption {
+  text-align: center;
+}
+
+figure h3 {
   text-align: center;
 }
