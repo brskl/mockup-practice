@@ -70,6 +70,7 @@ figure h3 {
 }
 
 figure {
-  margin-top: 30px;
+  padding-top: 10px;
   text-align: center;
+  clear: both;
 }
