@@ -2,24 +2,29 @@
 header {
   background: black;
   color: white;
+  padding: 10px;
 }
 
 footer {
   background: black;
   color: white;
   clear: both;
+  padding: 10px;
 }
 
 nav {
   background: gray;
   text-align: center;
+  padding: 0.5rem;
 }
 
 .call-to-action {
   float: right;
 }
 
-header h1 { clear: right;}
+header h1 { 
+  clear: right;
+}
 
 a {
   color: red;
@@ -27,16 +32,20 @@ a {
 
 nav a {
   color: blue;
+  margin-left: 2rem;
 }
 
 aside {
   float: right;
   border: 1px solid black;
   margin: 5px;
+  width: 30%;
 }
 
 article {
   float: left;
+  width: 70%;
+  margin: 5px;
 }
 
 footer p {
@@ -53,4 +62,8 @@ figure figcaption {
 
 figure h3 {
   text-align: center;
+}
+
+#Testimonials p {
+  font-style: italic;
 }
