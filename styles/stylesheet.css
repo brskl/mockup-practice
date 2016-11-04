@@ -39,7 +39,7 @@ aside {
   float: right;
   border: 1px solid black;
   margin: 5px;
-  width: 30%;
+  width: 25%;
 }
 
 article {
@@ -66,4 +66,9 @@ figure h3 {
 
 #Testimonials p {
   font-style: italic;
+}
+
+figure {
+  padding-bottom: 15px;
+  text-align: center;
 }
