@@ -40,6 +40,7 @@ aside {
   border: 1px solid black;
   margin: 5px;
   width: 25%;
+  padding-bottom: 15px;
 }
 
 article {
@@ -52,7 +53,7 @@ footer p {
   text-align: center;
 }
 
-figure a {
+aside a {
   float: right;
 }
 
@@ -69,6 +70,6 @@ figure h3 {
 }
 
 figure {
-  padding-bottom: 15px;
+  margin-top: 30px;
   text-align: center;
 }
