@@ -11,11 +11,14 @@ footer {
 
 nav {
   background: gray;
+  text-align: center;
 }
 
 .call-to-action {
-  text-align: right;
+  float: right;
 }
+
+header h1 { clear: right;}
 
 a {
   color: red;
@@ -36,4 +39,8 @@ article {
 
 footer {
   clear: both;
+}
+
+footer p {
+  text-align: center;
 }
